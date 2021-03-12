@@ -1,12 +1,12 @@
 return {
-    name = "Core",
+    name = "Echoes of Death 3",
 
     components = {
         ["Fighting Arts"] = "Echoes of Death 3 Fighting Arts",
         ["Vermin"] = "Echoes of Death 3 Vermin",
     },
 
-    guidNames = { ["69b3e9"] = "Echoes of Death 3 Archive" },
+    guidNames = { [""] = "Echoes of Death 3 Archive" },
 
     archiveEntries = {
         archive = "Echoes of Death 3 Archive",
