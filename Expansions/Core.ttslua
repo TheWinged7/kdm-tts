@@ -244,6 +244,8 @@ return {
 
         ["Crystal Skin"] = { head = 3, arms = 3, body = 3, waist = 3, legs = 3, modifier = true },
         ["Shield Proficiency"] = { head = 1, arms = 1, body = 1, waist = 1, legs = 1, modifier = true },
+        
+        ["Vagabond Armor"]      = { head = 1, arms = 1, body = 1, waist = 1, legs = 1, modifier = true },
     },
 
     weaponStats = {
